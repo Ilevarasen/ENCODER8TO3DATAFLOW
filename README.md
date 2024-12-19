@@ -11,6 +11,15 @@ To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating 
 ### SOFTWARE REQUIRED: Quartus prime
 
 ### THEORY:
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 ### ENCODER 8 TO 3:
 
