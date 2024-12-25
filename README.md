@@ -11,15 +11,9 @@ To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating 
 ### SOFTWARE REQUIRED: Quartus prime
 
 ### THEORY:
-1.Type the program in Quartus software.
 
-2.Compile and run the program.
+An 8-to-3 encoder is a digital circuit that compresses 8 input lines into 3 output lines. It essentially identifies which of the 8 inputs is active and represents this in binary on the 3 output lines. Here's how the data flow modeling for an 8-to-3 encoder can be described.
 
-3.Generate the RTL schematic and save the logic diagram.
-
-4.Create nodes for inputs and outputs to generate the timing diagram.
-
-5.For different input combinations generate the timing diagram.
 
 ### ENCODER 8 TO 3:
 
@@ -49,20 +43,34 @@ Figure 02  Encoder 8 * 3
 
 ### PROCEDURE:
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
+
 
 ### PROGRAM:
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+![Screenshot 2024-12-25 153417](https://github.com/user-attachments/assets/ba641f54-2cdb-4aaa-88b9-c12803015c76)
 
-Developed by: RegisterNumber:
-*/
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+### RTL LOGIC FOR ENCODER 8 TO 3 IN DATAFLOW MODELLING:
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![Screenshot 2024-12-25 153433](https://github.com/user-attachments/assets/7baef4f5-8331-4807-b347-e9f188771ad7)
 
-**RESULTS**
+
+### TIMING DIGRAMS FOR  ENCODER 8 TO 3 IN DATAFLOW MODELLING:
+
+![Screenshot 2024-12-25 153459](https://github.com/user-attachments/assets/3858ac65-f9ac-4e96-965f-7863fe26a121)
+
+### RESULTS:
+
+The implementation of the 8-to-3 encoder in dataflow modeling using Verilog, along with the validation of its functionality through functional tables, is completed.
 
 
 
